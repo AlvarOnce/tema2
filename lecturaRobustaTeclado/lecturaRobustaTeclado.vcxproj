@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{57dc92db-1cac-4546-a4d5-51db1652ba69}</ProjectGuid>
-    <RootNamespace>reservaMemoriaMatrix</RootNamespace>
+    <ProjectGuid>{f73a6c00-2908-4688-8365-fc00acc4bb23}</ProjectGuid>
+    <RootNamespace>lecturaRobustaTeclado</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
